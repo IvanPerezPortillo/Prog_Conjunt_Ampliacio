@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prg.conf_t3_conjunt;
+package ConjuntAmpliacio;
 
 import java.util.ArrayList;
 

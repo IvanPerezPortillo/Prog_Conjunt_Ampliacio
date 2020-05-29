@@ -1,10 +1,11 @@
 /*
  * GENERICOS
  */
-package prg.conf_t3_conjunt;
+package ConjuntAmpliacio;
 
 import java.util.ArrayList;
 import java.util.Objects;
+
 
 /**
  *
